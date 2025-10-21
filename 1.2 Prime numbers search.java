@@ -9,11 +9,10 @@ class Main {
                 break;
             }
         }
-
         if (isPrime){
             System.out.print(i + " ");
         }
      }
-
     }
 }
+
